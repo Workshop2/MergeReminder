@@ -1,10 +1,23 @@
 MergeReminder
 =============
 
+Do you or your team merge between many Team Foundation (TFS) branches? Do you forget to merge between some branches? Well this tool is designed to keep an eye on your un-merged changes and will give you a helpful reminder. I have released this open source, so feel free to take it and do what you want with it.
+
+Features: 
+- Get reminded about un-merged changes 
+- Monitor as many branches as you like 
+- Run in the background 
+- Uses a tiny footprint 
+- Free
+
+Note: You may need to install the Sql Compact Framework
+
+
 Merge Reminder Tool (TFS)
 
 Created by Simon Colmer / Workshop2
 http://x-volt.com
+
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
